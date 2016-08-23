@@ -1,0 +1,6 @@
+[submodule "submodules/beanstalk-client"]
+	path = submodules/beanstalk-client
+	url = https://github.com/deepfryed/beanstalk-client.git
+[submodule "submodules/beanstalkd"]
+	path = submodules/beanstalkd
+	url = https://github.com/kr/beanstalkd.git
